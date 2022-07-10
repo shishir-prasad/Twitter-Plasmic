@@ -1,0 +1,284 @@
+.root {
+  display: flex;
+  height: auto;
+  flex-direction: row;
+  position: relative;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--token-rYiRNeggJWAdfQ);
+}
+.freeBox__pDafy {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 59px;
+  height: auto;
+  left: auto;
+  top: auto;
+  flex-shrink: 0;
+}
+.freeBox__pDafy > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin-top: calc(0px - 5px);
+  height: calc(100% + 5px);
+}
+.freeBox__pDafy > :global(.__wab_flex-container) > *,
+.freeBox__pDafy > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pDafy > :global(.__wab_flex-container) > picture > img,
+.freeBox__pDafy
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 5px;
+}
+.freeBox__mkTai {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  height: 100%;
+  min-height: 0;
+}
+.freeBox__mkTai > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 0;
+  margin-top: calc(0px - 5px);
+  height: calc(100% + 5px);
+}
+.freeBox__mkTai > :global(.__wab_flex-container) > *,
+.freeBox__mkTai > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__mkTai > :global(.__wab_flex-container) > picture > img,
+.freeBox__mkTai
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 5px;
+}
+.img___06CA1 {
+  object-fit: cover;
+  width: 49px;
+  height: 49px;
+  position: relative;
+  border-radius: 50%;
+}
+.img___06CA1 > picture > img {
+  object-fit: cover;
+}
+.img___06CA1 > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox___6I9GW {
+  display: block;
+  position: relative;
+  width: 2px;
+  height: 100%;
+  left: auto;
+  top: auto;
+  background: rgb(205, 214, 221);
+  min-height: 0;
+}
+.freeBox__egTto {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  left: auto;
+  top: auto;
+  min-width: 0;
+}
+.freeBox__egTto > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-width: 0;
+  margin-top: calc(0px - 2px);
+  height: calc(100% + 2px);
+}
+.freeBox__egTto > :global(.__wab_flex-container) > *,
+.freeBox__egTto > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__egTto > :global(.__wab_flex-container) > picture > img,
+.freeBox__egTto
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 2px;
+}
+.freeBox___0R8C {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  top: auto;
+  left: auto;
+}
+.freeBox__eep7H {
+  flex-direction: row;
+  display: flex;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.freeBox__eep7H > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox__eep7H > :global(.__wab_flex-container) > *,
+.freeBox__eep7H > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__eep7H > :global(.__wab_flex-container) > picture > img,
+.freeBox__eep7H
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 5px;
+}
+.freeBox__bDuzi {
+  position: relative;
+  left: auto;
+  top: auto;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__ge5Xt {
+  display: flex;
+  position: relative;
+}
+.slotTargetName {
+  font-weight: 700;
+}
+.freeBox___3MUs {
+  position: relative;
+  left: auto;
+  top: auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetUsername {
+  color: var(--token-piXlJeZua-bG5s);
+  white-space: pre;
+}
+.slotTargetUsername > .__wab_text,
+.slotTargetUsername > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_text,
+.slotTargetUsername > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetUsername
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-overflow: ellipsis;
+}
+.text {
+  position: relative;
+  left: auto;
+  top: auto;
+  color: var(--token-piXlJeZua-bG5s);
+}
+.slotTargetTimestamp {
+  color: var(--token-piXlJeZua-bG5s);
+}
+.actionButton__epI5V:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.svg__r2Nau {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  color: var(--token-piXlJeZua-bG5s);
+  left: auto;
+  top: auto;
+}
+.freeBox__yr3Zl {
+  display: flex;
+  position: relative;
+  width: auto;
+}
+.freeBox__iob3L {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  left: auto;
+  top: auto;
+  margin-top: calc(4px + 2px) !important;
+  max-width: 500px;
+}
+.actionButton__txHP:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__iH6Az {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton___5FlDc:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__nKbeW {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton__aAwgp:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__iejXh {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton__mnxsy:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.svg___8YdWf {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
